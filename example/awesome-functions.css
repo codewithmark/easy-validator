@@ -1,0 +1,56 @@
+.required{
+    color:red;
+}
+
+/*input > end*/
+
+ 
+
+input,textarea,select{
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #AAA;  
+}
+ input:focus {
+    outline: none !important;
+    border-bottom: 1px solid #16a085;
+    transition: 0.2s ease;
+}
+
+ 
+
+/*input > end*/
+
+
+.center {
+    position: absolute;
+    left: 50%;           
+}
+
+.center-page {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+/*spacer > start*/
+.spacer-1x{
+    padding:1px;
+}
+.spacer-2x{
+    padding:3px;
+}
+.spacer-3x{
+    padding:5px;
+}
+.spacer-4x{
+    padding:7px;
+}
+.spacer-5x{
+    padding:10px;
+}
+/*spacer > end*/

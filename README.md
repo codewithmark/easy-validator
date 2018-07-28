@@ -1,1 +1,1 @@
-# easy-validator
+# Easy Validator
